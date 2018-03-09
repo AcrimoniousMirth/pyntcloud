@@ -13,7 +13,6 @@ verify_ssl = true
 
 numpy = "*"
 pandas = "*"
-numba = "*"
 matplotlib = "*"
 jupyter = "*"
 scipy = "*"
