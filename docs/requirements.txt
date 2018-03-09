@@ -1,5 +1,5 @@
 numpy
 scipy
 pandas
-numba
+numba (As of the fork by Acrimonious Mirth, this should ideally be obsolete)
 sphinx_bootstrap_theme
