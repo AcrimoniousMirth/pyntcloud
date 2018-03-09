@@ -17,7 +17,6 @@ setup(
         "numpy",
         "scipy",
         "pandas",
-        "numba",
     ],
      extras_require={
         'LAS':  ["laspy"],
